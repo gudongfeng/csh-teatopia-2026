@@ -3,5 +3,6 @@
 Animated HTML slide deck for the 11-minute Chen Sheng Hao brand talk at
 TEATOPIA Global Dialogue, Westin Bayshore, Vancouver — October 31, 2026.
 
-- `index.html` — self-contained animated deck (10 slides, press N for speaker notes, T for the 11:00 timer)
+- `index.html` — self-contained animated deck (11 slides, press N for speaker notes, T for the 11:00 timer)
+- Slide 2 is a click-through map of the Ancient Tea Horse Road: each click moves the caravan to the next stop (← steps back)
 - Master copy lives in Frank's Notion: 🎬 内容创作 → 💡 话题库 → TEATOPIA 2026 陈升号品牌演讲（领事专场）
